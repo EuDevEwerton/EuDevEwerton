@@ -14,5 +14,5 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/devewerton/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"       alt="https://www.linkedin.com/in/devewerton/</a>
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"        alt="https://www.linkedin.com/in/devewerton/"/></a>
 </div>
