@@ -1,7 +1,7 @@
 ### Olá, sou Ewerton Luís 👋
 
 - <a href="https://www.ifpb.edu.br/monteiro" target="blank">
-  <img src="https://avatars.githubusercontent.com/u/2523928?s=200&v=4" alt="https://www.ifpb.edu.br/monteiro" width="15" height="15"/></a> Graduando em Análise e Desenvolvimento de Sistemas
+  <img src="https://avatars.githubusercontent.com/u/2523928?s=200&v=4" alt="https://www.ifpb.edu.br/monteiro" width="15" height="15"/></a> Graduando em Análise e Desenvolvimento de Sistemas 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <div style="display: inline-block width="100%><br>
