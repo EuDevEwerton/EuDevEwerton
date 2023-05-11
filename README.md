@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, sou Ewerton Luís 👋
 
-<!--
-**EuDevEwerton/EuDevEwerton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <a href="https://www.ifpb.edu.br/monteiro" target="blank">
+  <img src="https://avatars.githubusercontent.com/u/2523928?s=200&v=4" alt="https://www.ifpb.edu.br/monteiro" width="15" height="15"/></a> Graduando em Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<div style="display: inline-block width="100%><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Conecte-se comigo:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/devewerton/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"       alt="https://www.linkedin.com/in/devewerton/</a>
+</div>
